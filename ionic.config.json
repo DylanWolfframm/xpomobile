@@ -1,0 +1,8 @@
+{
+  "name": "xpomobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "efd3154d"
+}

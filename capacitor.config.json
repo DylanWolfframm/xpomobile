@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "xpomobile",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
